@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import threeDot from "../assets/3dot.svg"
 import up from "../assets/up.svg";
 import down from "../assets/down.svg";
-import ListOfFiles from './ListOfFIles';
+import ListOfFiles from "./ListOfFiles";
 
 function Explorer({ pageFiles, setCurrent,currentFile }) {
   const [open, setOpen] = useState(true);
