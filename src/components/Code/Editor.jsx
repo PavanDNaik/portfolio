@@ -14,10 +14,10 @@ function Editor({ code, lang }) {
               enabled: false,
             },
           }}
-          height="50vh"
-          onChange={()=>false}
+          height="80vh"
+          onChange={() => false}
         />
-        </div>
+      </div>
     </>
   );
 }
