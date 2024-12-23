@@ -1,6 +1,6 @@
 export const filContent = {
   jsx: `import React from 'react';
-const help = '"ctrl + click" to visit to any link provided';
+const help = '"ctrl + click" to visit any link';
 
 const Portfolio = () => {
     return (
