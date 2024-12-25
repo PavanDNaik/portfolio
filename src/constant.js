@@ -32,13 +32,9 @@ export default Portfolio;
   html: `<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Pavan Naik - Profile</title>
+    <title>Pavan Naik - Full Stack Developer</title>
 </head>
 <body>
-    <header>
-        <h1>Pavan Naik</h1>
-        <p><strong>Full Stack Developer</strong></p>
-    </header>
     <section>
         <p>
             <h1>Hello! I'm Pavan Naik </h1>, a passionate and driven Computer Science Engineer 
@@ -97,7 +93,6 @@ export default Portfolio;
         }
     ]
 }`,
-  js: "let a = {}",
   md: `# Achievements
 
 - **Codevita 2024**: Achieved a global rank of **201** and qualified for the next round (Codevita is still running).
