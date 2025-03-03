@@ -95,7 +95,7 @@ export default Portfolio;
 }`,
   md: `# Achievements
 
-- **Codevita 2024**: Achieved a global rank of **201** and qualified for the next round (Codevita is still running).
+- **Codevita 2024**: Achieved a global rank of **201** in round-1.
   
 - **Leetcode**: 
   - Level: **Knight** (Top **4.33%**).
